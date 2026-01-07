@@ -1,7 +1,7 @@
 <h1 align="center">Oi! Eu sou o Brenner Rodrigues 👋</h1>
 
 <p align="center">
-  Desenvolvedor de Software em formação • UFG • Web | C | Python | UX
+  Estudante de Engenharia de Software • UFG • Web | C | Python | UX
 </p>
 
 ---
